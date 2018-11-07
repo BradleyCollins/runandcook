@@ -1,7 +1,7 @@
 .navbar_vert {
   display: grid !important;
   grid-template-rows: repeat(10, 1fr);
-  background: #337ab7;
+  background: #f56d13;
   display: inline-block;
   white-space: nowrap;
   width: 150px;
@@ -54,11 +54,12 @@ i.fab {
   min-height: 100vh;
   margin-left: 150px !important;
   margin-right: 0px !important;
-  background: url(img/banner4.jpg);
+  background: url(img/run_banner.jpg);
   background-size: cover;
 }
 
 .banner h1,
 p {
   padding: 20px 0px 0px 20px !important;
+  color: #fff;
 }

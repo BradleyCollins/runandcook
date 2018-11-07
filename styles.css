@@ -39,6 +39,7 @@ i.fab {
   overflow: hidden;
   color: #fff;
   margin-bottom: 10px;
+  border-bottom: 1px solid #fff;
 }
 
 .item img {

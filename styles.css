@@ -41,6 +41,10 @@ i.fab {
   margin-bottom: 10px;
 }
 
+.item img {
+  padding: 20px 0px 20px 0px !important;
+}
+
 .bottom1 {
   grid-row-start: 9;
 }

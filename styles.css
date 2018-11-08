@@ -55,15 +55,15 @@ i.fab {
 }
 
 .banner {
-  min-height: 100vh;
+  min-height: 50vh;
   margin-left: 150px !important;
   margin-right: 0px !important;
-  background: url(img/run_banner.jpg);
+  background: url(img/run_banner2.jpg);
   background-size: cover;
 }
 
 .banner h1,
-p {
+.banner p {
   padding: 20px 0px 0px 20px !important;
   color: #fff;
 }

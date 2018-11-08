@@ -1,7 +1,8 @@
 .navbar_vert {
   display: grid !important;
   grid-template-rows: repeat(10, 1fr);
-  background: #f56d13;
+  /* background: #f56d13; */
+  background: #308fed;
   display: inline-block;
   white-space: nowrap;
   width: 150px;

@@ -1,8 +1,7 @@
 .navbar_vert {
   display: grid !important;
   grid-template-rows: repeat(10, 1fr);
-  /* background: #f56d13; */
-  background: #308fed;
+  background: #f56d13;
   display: inline-block;
   white-space: nowrap;
   width: 150px;
@@ -38,7 +37,6 @@ i.fab {
   height: 100px;
   overflow: hidden;
   color: #fff;
-  margin-bottom: 10px;
   border-bottom: 1px solid #fff;
 }
 
@@ -46,20 +44,15 @@ i.fab {
   padding: 20px 0px 20px 0px !important;
 }
 
-.bottom1 {
-  grid-row-start: 9;
-}
-
 .bottom2 {
   grid-row-start: 10;
-  vertical-align: middle !important;
 }
 
 .banner {
-  min-height: 75vh;
+  min-height: 100vh;
   margin-left: 150px !important;
   margin-right: 0px !important;
-  background: url(img/run_banner2.jpg);
+  background: url(img/run_banner.jpg);
   background-size: cover;
 }
 
@@ -83,10 +76,12 @@ i.fab {
   .nav2 {
     grid-column-start: 1;
     grid-row-start: 2;
+    border-right: 1px solid white;
   }
   .nav3 {
     grid-column-start: 2;
     grid-row-start: 2;
+    border-right: 1px solid white;
   }
   .nav4 {
     grid-column-start: 3;

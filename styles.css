@@ -42,6 +42,7 @@ i.fab {
 
 .item img {
   padding: 20px 0px 20px 0px !important;
+  width: 125px;
 }
 
 .bottom2 {
@@ -72,10 +73,6 @@ i.fab {
   }
   .nav1 {
     grid-column: 1 / span 3;
-  }
-
-  .nav1 img {
-    width: 125px;
   }
 
   .nav2 {

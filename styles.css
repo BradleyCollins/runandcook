@@ -73,6 +73,11 @@ i.fab {
   .nav1 {
     grid-column: 1 / span 3;
   }
+
+  .nav1 img {
+    width: 125px;
+  }
+
   .nav2 {
     grid-column-start: 1;
     grid-row-start: 2;
